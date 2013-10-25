@@ -1,4 +1,1 @@
-email_templates
-===============
-
-Email templates
+Email templates for Englishtown.
